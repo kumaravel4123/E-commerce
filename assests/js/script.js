@@ -14,13 +14,6 @@ const fake_products = [
         img: 'Tws.jpg'
     },
     {
-        id: 3,
-        title: 'Vivo v25',
-        price: 24000,
-        mrp:25000,
-        img: 'vivo.png'
-    },
-    {
         id: 4,
         title: 'Oppo A35',
         price: 14000,
